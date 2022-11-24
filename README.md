@@ -1,7 +1,7 @@
 # OOPS-concepts
-These contains all the major OOP concepts in c++ language\n
+## These contains all the major OOP concepts in c++ language
 
-Submitted by - Subham Yadav \n 
-Roll - 21051440\n
-Sec 23\n
-Under the guidance of Prof Abinas Panda
+### Submitted by - Subham Yadav 
+### Roll - 21051440
+### Sec 23
+### Under the guidance of Prof Abinas Panda
